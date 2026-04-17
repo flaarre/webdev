@@ -8,4 +8,11 @@ h2{
     color:green;
 }
 
+a:hover{
+  color:lightpink;
+}
+
+.name{
+    background-color: grey;
+}
         
