@@ -12,7 +12,16 @@ a:hover{
   color:lightpink;
 }
 
-.name{
-    background-color: grey;
+body{
+    background-color: pink;
 }
-        
+
+.introduction{
+    border : 4px solid black;
+    display: inline-block;
+}
+
+.photos{
+    border : 4px solid lightpink;
+    display: inline-block;
+}
