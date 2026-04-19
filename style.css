@@ -1,3 +1,14 @@
+:root {
+  --bg:        #0d0d0b;
+  --surface:   #141410;
+  --border:    #2a2a24;
+  --text:      #e8e4d9;
+  --muted:     #7a7568;
+  --accent:    #c9a84c;
+  --accent-dim: #7a6330;
+}
+ 
+
 h3{
     color:grey;
 }
@@ -10,10 +21,6 @@ h2{
 
 a:hover{
   color:lightpink;
-}
-
-body{
-    background-color: pink;
 }
 
 .introduction{
