@@ -1,1 +1,1 @@
-// comment
+alert("Hello, World!");
