@@ -1,3 +1,14 @@
 "use strict";
 
-// this is work in my first branch
+function toggleTheme() {
+  document.body.classList.toggle("dark-mode");
+}
+
+function hiName() {
+    var name = prompt("What is your name?");
+    if (name) {
+        alert("Hi " + name + "!");
+    } else {
+        alert("Hi there!");
+    }
+}
